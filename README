@@ -1,0 +1,10 @@
+README:  this file
+
+Cpptest Support Files
+ *  globalExcludesCpptest.lst: specifies files NOT to be C++ Standards checked
+
+ *  template_localSettingsCpptest.def:  template of file containing default 
+                                        email address to receive reports
+
+Pylint Support Files
+ *  pylint:  defines the LSST Standards Rules; to be loaded into ~/.pylintrc
